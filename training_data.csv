@@ -136,38 +136,3 @@ Ticket ID,Severity,Category,Subject,Brief description,Date created
 1283,Critical,Hardware,Server Overheat,"Temperature alarm triggered for server X5.",2023-09-21
 1284,Low,Hardware,Keyboard Issues,"Keys sticking on workstation 27's input device.",2023-09-22
 1285,Medium,Hardware,Monitor Flicker,"Display intermittently flickering on workstation 45.",2023-09-22
-1286,High,Hardware,Drive Failure,"Potential failure detected in main storage device on server Y2.",2023-09-22
-1287,Critical,Hardware,UPS Beeping,"Uninterruptible power supply unit alarming in server room.",2023-09-22
-1288,Low,Hardware,Scanner Error,"Scanner on floor 2 not responding.",2023-09-23
-1289,Medium,Hardware,Mouse Malfunction,"Pointer device not functioning for workstation 12.",2023-09-23
-1290,High,Hardware,RAM Alert,"Memory consumption critical on server Z3.",2023-09-23
-1291,Low,Hardware,External Drive Not Recognized,"USB storage not detected on laptop L5.",2023-09-24
-1292,Critical,Hardware,CPU Spike,"CPU usage at 100% for prolonged time on server W1.",2023-09-24
-1293,Medium,Hardware,Projector Glitch,"Artifacts appearing during presentations in main conference room.",2023-09-24
-1294,Low,Hardware,Tablet Battery,"Battery not holding charge for tablet T4.",2023-09-25
-1295,High,Hardware,Fan Noise,"Loud noise detected from cooling system in workstation 38.",2023-09-25
-1296,Critical,Hardware,Data Recovery,"Critical files needed from malfunctioning drive D3.",2023-09-25
-1297,Medium,Hardware,Webcam Not Detected,"Video input not available during virtual meetings on laptop L8.",2023-09-26
-1298,Low,Hardware,Phone Handset,"Static noise reported during calls on desk phone 17.",2023-09-26
-1299,High,Hardware,Laptop Overheat,"Excessive temperature reported on the bottom of laptop L3.",2023-09-26
-1300,Medium,Hardware,Touchscreen Response,"Intermittent touch response on kiosk K2 in the lobby.",2023-09-27
-1301,High,Hardware,Desktop No Power,"Employee's desktop at workstation 52 not turning on.",2023-09-28
-1302,Medium,Hardware,Printer Streaks,"Vertical streaks appearing on prints from printer P4.",2023-09-28
-1303,Critical,Hardware,Rack Server Crash,"Critical server in rack R7 unresponsive.",2023-09-28
-1304,Low,Hardware,Headphone Jack,"No audio output on workstation 33's headphone port.",2023-09-29
-1305,Medium,Hardware,Display Color Issue,"Abnormal color tints on monitor M5.",2023-09-29
-1306,High,Hardware,SSD Warning,"Storage health warning triggered on laptop L9.",2023-09-29
-1307,Critical,Hardware,Cooling System Alert,"Temperature rising beyond safe levels on server S8.",2023-09-29
-1308,Low,Hardware,Microphone Feedback,"Loud feedback heard during calls on desktop 46.",2023-09-30
-1309,Medium,Hardware,Charging Problem,"Battery not charging on company-issued mobile device D7.",2023-09-30
-1310,High,Hardware,RAID Alert,"RAID configuration issue detected on server A5.",2023-09-30
-1311,Low,Hardware,Optical Drive,"CD not ejecting from drive on workstation 29.",2023-10-01
-1312,Critical,Hardware,Graphics Card Alert,"Graphics processing unit malfunction detected on workstation 55.",2023-10-01
-1313,Medium,Hardware,Projector Connection,"No signal when connecting laptops to projector P3.",2023-10-01
-1314,Low,Hardware,Smartphone Screen,"Cracked screen on company-issued mobile device S9.",2023-10-02
-1315,High,Hardware,Noise from PC,"Grinding noise detected from workstation 58.",2023-10-02
-1316,Critical,Hardware,Server Reboot,"Unscheduled reboot observed on mission-critical server B1.",2023-10-02
-1317,Medium,Hardware,Camera Malfunction,"No visual during video calls on tablet T6.",2023-10-03
-1318,Low,Hardware,Speaker Volume,"Low audio volume on workstation 41.",2023-10-03
-1319,High,Hardware,Keyboard Malfunction,"Keys 'R' and 'T' unresponsive on laptop L11.",2023-10-03
-1320,Medium,Hardware,Signal Loss,"Intermittent signal loss on digital signage screen S4.",2023-10-04
