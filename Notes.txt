@@ -1,0 +1,7 @@
+Questions to ask:
+
+1. Do I want to take common words (i.e. of, and, etc) out of the corpus?
+2. Word tokenization vs subword tokenization, should I use something like SentencePiece for tokenization?
+3. What parameters can I tweak here?
+4. Will more training data help?
+5. What effect does LSTM have?
