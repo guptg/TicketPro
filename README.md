@@ -12,6 +12,7 @@
     ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     2.1 Entering the container! 
     ```bash
     docker run -it --rm training bash
@@ -22,6 +23,10 @@
     ```bash
     docker stack deploy --compose-file docker-compose.yml <name>
     ```
+=======
+    2.2 GPU resources
+    https://docs.docker.com/config/containers/resource_constraints/
+>>>>>>> fb539b0 (containerisation: imperitive resources)
 =======
     2.2 GPU resources
     https://docs.docker.com/config/containers/resource_constraints/
