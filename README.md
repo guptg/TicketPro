@@ -8,8 +8,8 @@
 
    2.1 Running container
     ```bash
-    docker run -it --rm --cpus="0.5" -m 2g --memory-reservation=4g training bash 
+    docker run -it --rm --cpus="0.5" -m 4g --memory-reservation=2g training bash 
     ```
 
-     2.2 GPU resources
-    https://docs.docker.com/config/containers/resource_constraints/
+   2.2 GPU resources
+   https://docs.docker.com/config/containers/resource_constraints/

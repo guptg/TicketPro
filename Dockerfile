@@ -1,7 +1,5 @@
 FROM tensorflow/tensorflow
 
-RUN apt install nano
-
 RUN pip install numpy
 RUN pip install pandas
 RUN pip install matplotlib
