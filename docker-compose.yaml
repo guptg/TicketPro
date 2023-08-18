@@ -1,0 +1,16 @@
+services:
+  training:
+    build: 
+    deploy:
+        resources:
+            limits:
+              cpus: 0.50
+              memory: 4G
+            reservations:
+              cpus: 0.25
+              memory: 2G
+                #devices:
+                #- driver: nvidia
+                # countr: 1
+                # capabilities: gpu
+                # https://docs.docker.com/compose/gpu-support/
