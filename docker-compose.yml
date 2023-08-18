@@ -1,6 +1,6 @@
 services:
   training:
-    build: 
+    build: .
     deploy:
         resources:
             limits:
