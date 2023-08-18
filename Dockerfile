@@ -1,5 +1,7 @@
 FROM tensorflow/tensorflow
 
+VOLUME <PATH>
+
 RUN pip install numpy
 RUN pip install pandas
 RUN pip install matplotlib
