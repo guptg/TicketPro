@@ -1,0 +1,36 @@
+Ticket ID,Severity,Category,Subject,Brief description,Date created
+1191,High,Software,Expired Certificate,"SSL certificate expired for domain example.net.",2023-08-25
+1310,High,Hardware,RAID Alert,"RAID configuration issue detected on server A5.",2023-09-30
+1316,Critical,Hardware,Server Reboot,"Unscheduled reboot observed on mission-critical server B1.",2023-10-02
+1244,Low,Network,WiFi Signal,"Weak WiFi signal reported in the cafeteria.",2023-09-08
+1199,Low,Hardware,Mouse Replacement,"Mouse double clicking at desk 99.",2023-08-27
+1247,Critical,Network,DDoS Alert,"Potential DDoS attack detected from multiple IPs.",2023-09-08
+1264,Low,Network,Guest WiFi,"Guest WiFi password needs to be reset.",2023-09-15
+1260,Medium,Network,Device Limit,"Exceeded device limit on the guest WiFi.",2023-09-13
+1110,High,Hardware,Server Upgrade,"RAM upgrade required for server D456.",2023-08-16
+1091,Medium,Network,Router Reset,"Router in room 5 needs a reset.",2023-08-12
+1254,Low,Network,Switch Failure,"Switch not functioning in the server room.",2023-09-11
+1312,Critical,Hardware,Graphics Card Alert,"Graphics processing unit malfunction detected on workstation 55.",2023-10-01
+1263,Critical,Network,Security Alert,"Unusual login attempts detected on the main server.",2023-09-14
+1215,Critical,Software,Security Alert,"Suspicious activity detected in application MNO.",2023-08-31
+1239,High,Software,Batch Process Failure,"Automated batch job failed during off-hours.",2023-09-06
+1005,Medium,Software,Login Issue,"User Jane Doe is unable to login to software ABC.",2023-08-02
+1278,Low,Network,Hardware Diagnostics,"Router at reception might need a diagnostic run.",2023-09-19
+1249,Medium,Network,Router Overload,"Router in conference room facing frequent overloads.",2023-09-09
+1320,Medium,Hardware,Signal Loss,"Intermittent signal loss on digital signage screen S4.",2023-10-04
+1313,Medium,Hardware,Projector Connection,"No signal when connecting laptops to projector P3.",2023-10-01
+1197,High,Network,Segmentation,"Network segmentation needed for department ABC.",2023-08-27
+1267,Critical,Network,Server Unreachable,"Critical server Z12 not responding since 2 AM.",2023-09-15
+1245,Medium,Network,VPN Disconnect,"Remote employees facing issues maintaining a stable connection.",2023-09-08
+1261,High,Network,Connection Timeout,"Users in building B experiencing connection timeouts.",2023-09-14
+1288,Low,Hardware,Scanner Error,"Scanner on floor 2 not responding.",2023-09-23
+1255,High,Network,External Access,"Unauthorized external access detected on a restricted port.",2023-09-11
+1111,Critical,Network,DDoS Alert,"Potential DDoS attack detected from IP 123.45.67.89.",2023-08-16
+1277,Medium,Network,VPN Access Rights,"User Alice needs VPN access to the development environment.",2023-09-19
+1103,High,Network,Firewall Alert,"Suspicious activity detected on port 443.",2023-08-14
+1224,Critical,Software,Unexpected Shutdown,"Frequent crashes experienced by multiple users.",2023-09-02
+1196,Low,Software,Documentation,"Documentation request for software XYZA.",2023-08-26
+1193,Low,Software,Version Query,"Which version of software UVW is currently deployed?",2023-08-26
+1237,Medium,Software,Configuration,"Need assistance in configuring the new module.",2023-09-06
+1265,Medium,Network,VPN Configuration,"New hires report issues configuring VPN on their devices.",2023-09-15
+1114,High,Software,Access Denied,"User denied access to critical application ABCD.",2023-08-17

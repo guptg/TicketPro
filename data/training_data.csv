@@ -1,0 +1,138 @@
+Ticket ID,Severity,Category,Subject,Brief description,Date created
+1317,Medium,Hardware,Camera Malfunction,"No visual during video calls on tablet T6.",2023-10-03
+1243,Critical,Network,Firewall Alert,"Suspicious activity detected on port 8080.",2023-09-07
+1120,Low,Software,UI Feedback,"Feedback on the new UI of software QRST.",2023-08-18
+1295,High,Hardware,Fan Noise,"Loud noise detected from cooling system in workstation 38.",2023-09-25
+1200,High,Software,Data Restoration,"Restore data from backup for software EFGI.",2023-08-27
+1257,Medium,Network,Proxy Issues,"Users unable to access external websites.",2023-09-12
+1099,Low,Software,Software Training,"Training requested for software MNO.",2023-08-13
+1211,Low,Software,Functionality Query,"How to use the export feature in application DEF?",2023-08-30
+1292,Critical,Hardware,CPU Spike,"CPU usage at 100% for prolonged time on server W1.",2023-09-24
+1314,Low,Hardware,Smartphone Screen,"Cracked screen on company-issued mobile device S9.",2023-10-02
+1293,Medium,Hardware,Projector Glitch,"Artifacts appearing during presentations in main conference room.",2023-09-24
+1269,Medium,Network,Latency Spikes,"Sudden spikes in latency affecting remote meetings.",2023-09-16
+1315,High,Hardware,Noise from PC,"Grinding noise detected from workstation 58.",2023-10-02
+1093,Low,Network,Switch Port Malfunction,"Switch port #23 not working.",2023-08-12
+1097,High,Hardware,Drive Failure,"Drive 3 on storage device C13 has failed.",2023-08-13
+1213,High,Software,Data Loss,"Recent entries not saved due to unexpected shutdown.",2023-08-30
+1276,Critical,Network,Data Transfer Alert,"Large volumes of data being transferred from server X9.",2023-09-18
+1286,High,Hardware,Drive Failure,"Potential failure detected in main storage device on server Y2.",2023-09-22
+1105,Medium,Network,New VPN Account,"VPN account request for employee John Smith.",2023-08-14
+1258,Low,Network,Cabling,"Request for new Ethernet cabling at desk 87.",2023-09-12
+1246,High,Network,DNS Issue,"Domain mycompany.com not resolving internally.",2023-09-08
+1115,Medium,Network,Slow File Transfer,"Slow network transfer speeds in department XYZ.",2023-08-17
+1205,Medium,Software,License Allocation,"Request for 5 more licenses for application PQR.",2023-08-28
+1218,Low,Software,Documentation,"Documentation request for new features in application TUV.",2023-09-01
+1096,Low,Software,Monitor Calibration,"Monitor color calibration needed at desk 56.",2023-08-13
+1212,Medium,Software,Feature Request,"Request to add dark mode to application GHI.",2023-08-30
+1104,Critical,Software,Data Breach Alert,"Potential data breach detected in software PQR.",2023-08-14
+1266,High,Network,Port Issues,"Ports 20-22 seem to be blocked\, affecting file transfers.",2023-09-15
+1291,Low,Hardware,External Drive Not Recognized,"USB storage not detected on laptop L5.",2023-09-24
+1092,Medium,Software,Patch Installation,"Patch update for software JKL.",2023-08-12
+1294,Low,Hardware,Tablet Battery,"Battery not holding charge for tablet T4.",2023-09-25
+1221,High,Software,Login Failure,"Several users reported issues while attempting to log in.",2023-09-02
+1194,Critical,Network,Security Patch,"Urgent security patch needed for routers.",2023-08-26
+1202,Low,Software,UI Glitches,"Minor UI issues noticed after the recent update.",2023-08-28
+1272,Critical,Network,Security Protocol,"Newly detected vulnerability needs urgent patching.",2023-09-17
+1250,High,Network,Intranet Access,"Employees in the HR department unable to access the intranet.",2023-09-09
+1280,Medium,Network,Server Room Cooling,"Temperature in the server room higher than recommended.",2023-09-20
+1004,Low,Hardware,Keyboard malfunction,"Keyboard at desk 42 is missing keys.",2023-08-01
+1319,High,Hardware,Keyboard Malfunction,"Keys 'R' and 'T' unresponsive on laptop L11.",2023-10-03
+1228,Medium,Software,Data Export Issue,"Challenges exporting data in CSV format.",2023-09-03
+1232,High,Software,Data Sync,"Data not syncing between the desktop and mobile versions.",2023-09-04
+1100,Medium,Hardware,Replace Mouse,"Mouse not working at desk 78.",2023-08-13
+1289,Medium,Hardware,Mouse Malfunction,"Pointer device not functioning for workstation 12.",2023-09-23
+1306,High,Hardware,SSD Warning,"Storage health warning triggered on laptop L9.",2023-09-29
+1281,High,Hardware,PC Not Booting,"Employee's workstation not starting up; blank screen.",2023-09-21
+1283,Critical,Hardware,Server Overheat,"Temperature alarm triggered for server X5.",2023-09-21
+1203,High,Software,Access Denied,"User denied access to critical application ABCD.",2023-08-28
+1226,High,Software,Access Rights,"User John Doe needs elevated privileges to view reports.",2023-09-03
+1190,Critical,Hardware,CPU Overload,"Server F912's CPU usage at 100% for 2 hours.",2023-08-25
+1284,Low,Hardware,Keyboard Issues,"Keys sticking on workstation 27's input device.",2023-09-22
+1207,High,Software,Login Issues,"Multiple users unable to access their accounts.",2023-08-29
+1233,Medium,Software,Plugin Conflict,"Newly installed plugin causing performance hitches.",2023-09-05
+1216,Medium,Software,Performance Lag,"Application PQRS running slower than usual.",2023-08-31
+1229,High,Software,Version Rollback,"Need to revert to a previous version due to bugs.",2023-09-04
+1308,Low,Hardware,Microphone Feedback,"Loud feedback heard during calls on desktop 46.",2023-09-30
+1252,Critical,Network,Security Breach,"Unusual outbound traffic detected at midnight.",2023-09-10
+1270,High,Network,Internal Site Down,"The company's internal portal is not accessible.",2023-09-16
+1117,Critical,Hardware,Power Outage,"Power outage reported in data center 2.",2023-08-17
+1236,Critical,Software,Encryption Issues,"Issues detected while encrypting user data.",2023-09-05
+1253,Medium,Network,Latency,"High latency reported during video conferences.",2023-09-10
+1204,Critical,Software,Data Breach Alert,"Potential data breach detected in application XYZ.",2023-08-28
+1318,Low,Hardware,Speaker Volume,"Low audio volume on workstation 41.",2023-10-03
+1112,Low,Software,UI Glitches,"Minor UI glitches reported in software YZ.",2023-08-16
+1010,Low,Software,Update Reminder,"Update reminder keeps popping up for software DEF.",2023-08-03
+1311,Low,Hardware,Optical Drive,"CD not ejecting from drive on workstation 29.",2023-10-01
+1192,Medium,Network,New Access Point,"Setup new wireless access point on floor 4.",2023-08-25
+1210,High,Software,Database Connectivity,"Issues connecting to the main database from the client side.",2023-08-30
+1116,Low,Software,Software Tutorial,"Request for software EFGH tutorial.",2023-08-17
+1279,High,Network,Blocked Service,"VoIP service seems to be blocked causing call failures.",2023-09-19
+1262,Medium,Network,Bandwidth Limit,"Marketing department reports hitting bandwidth limits during uploads.",2023-09-14
+1299,High,Hardware,Laptop Overheat,"Excessive temperature reported on the bottom of laptop L3.",2023-09-26
+1309,Medium,Hardware,Charging Problem,"Battery not charging on company-issued mobile device D7.",2023-09-30
+1248,Low,Network,IP Conflict,"Two devices assigned the same IP address on floor 3.",2023-09-09
+1002,High,Software,Database Error,"Database XYZ failed during the nightly backup.",2023-08-01
+1113,Medium,Hardware,Laptop Repair,"Employee's laptop not booting up.",2023-08-16
+1234,Low,Software,License Query,"Clarification needed regarding multi-user licensing.",2023-09-05
+1003,Medium,Network,Slow internet,"Employees on floor 3 are reporting slow internet speeds.",2023-08-01
+1109,Medium,Software,Browser Compatibility,"Software VWX not compatible with browser version 90.",2023-08-15
+1268,Low,Network,Router Configuration,"Newly installed router requires initial configuration.",2023-09-16
+1107,Medium,Software,License Allocation,"Request for 5 more licenses for software STU.",2023-08-15
+1282,Medium,Hardware,Printer Malfunction,"Printer on floor 3 displaying 'Paper Jam' error.",2023-09-21
+1094,Critical,Hardware,Server Overheating,"Server B154 overheating and shutting down.",2023-08-12
+1300,Medium,Hardware,Touchscreen Response,"Intermittent touch response on kiosk K2 in the lobby.",2023-09-27
+1298,Low,Hardware,Phone Handset,"Static noise reported during calls on desk phone 17.",2023-09-26
+1108,High,Network,Connection Drops,"Internet connection dropping frequently in meeting room 7.",2023-08-15
+1304,Low,Hardware,Headphone Jack,"No audio output on workstation 33's headphone port.",2023-09-29
+1297,Medium,Hardware,Webcam Not Detected,"Video input not available during virtual meetings on laptop L8.",2023-09-26
+1101,Medium,Software,Email Syncing Issue,"User's email not syncing on mobile device.",2023-08-14
+1230,Medium,Software,Module Failure,"Reporting module not generating the correct data.",2023-09-04
+1008,Medium,Network,WiFi Disconnection,"WiFi disconnecting intermittently on floor 2.",2023-08-02
+1287,Critical,Hardware,UPS Beeping,"Uninterruptible power supply unit alarming in server room.",2023-09-22
+1235,High,Software,Authentication Error,"Two-factor authentication codes aren't being received.",2023-09-05
+1119,High,Network,Server Unreachable,"Server E789 unreachable for the past 3 hours.",2023-08-18
+1198,Medium,Software,Deprecated Function,"Deprecated function used in software BCDE.",2023-08-27
+1001,Critical,Hardware,Server crash,"Server A132 has crashed and is unresponsive.",2023-08-01
+1251,Low,Network,Access Point,"New access point setup requested for the lobby.",2023-09-10
+1195,Medium,Hardware,Laptop Upgrade,"Request for RAM upgrade in laptop model 1234.",2023-08-26
+1201,Medium,Software,Email Sync Issue,"User's email not syncing on mobile device.",2023-08-28
+1240,Medium,Software,Auto-update,"Challenges with the auto-update feature on macOS.",2023-09-06
+1102,Low,Hardware,Headset Malfunction,"Headset at desk 79 produces no sound.",2023-08-14
+1225,Medium,Software,Integration Problem,"Challenges integrating with the cloud database.",2023-09-03
+1285,Medium,Hardware,Monitor Flicker,"Display intermittently flickering on workstation 45.",2023-09-22
+1259,High,Network,Blocked Sites,"Legitimate sites being blocked by the security system.",2023-09-12
+1009,Critical,Hardware,Data Storage Alert,"Data storage B12 is at 98% capacity.",2023-08-03
+1220,High,Software,Data Restoration,"Restore data request after accidental deletion in application WXY.",2023-09-01
+1238,Low,Software,Notification Overload,"Excessive notifications bothering end-users.",2023-09-06
+1241,High,Network,Connection Drops,"Frequent loss of internet connectivity on floor 5.",2023-09-07
+1222,Medium,Software,Performance Issues,"Sluggish response noticed after the recent update.",2023-09-02
+1271,Low,Network,WiFi Coverage,"Dead zones reported in WiFi coverage near the east entrance.",2023-09-17
+1273,Medium,Network,Content Filter,"Some required websites are being flagged and denied.",2023-09-17
+1007,Low,Software,Printer Driver Issue,"Printer model 1234 needs updated driver.",2023-08-02
+1209,Medium,Software,Update Failure,"Failed to install the latest patch for application LMN.",2023-08-29
+1095,High,Software,Corrupted File,"File xyz.docx is corrupted and can't be opened.",2023-08-13
+1206,Medium,Software,Version Compatibility,"Recent update not compatible with Windows 11.",2023-08-29
+1296,Critical,Hardware,Data Recovery,"Critical files needed from malfunctioning drive D3.",2023-09-25
+1256,Critical,Network,Data Leak Potential,"Potential unauthorized data transfers spotted.",2023-09-11
+1303,Critical,Hardware,Rack Server Crash,"Critical server in rack R7 unresponsive.",2023-09-28
+1090,High,Software,License Expiry,"Software GHI license expiring in a week.",2023-08-12
+1106,Low,Hardware,Replace Monitor,"Monitor flickering at desk 21.",2023-08-15
+1305,Medium,Hardware,Display Color Issue,"Abnormal color tints on monitor M5.",2023-09-29
+1274,Low,Network,Switch Upgrade,"Switches on floor 6 due for an upgrade.",2023-09-18
+1290,High,Hardware,RAM Alert,"Memory consumption critical on server Z3.",2023-09-23
+1275,High,Network,Isolated Outage,"Connectivity issues isolated to the finance department.",2023-09-18
+1219,Medium,Software,Deprecated Function,"Deprecated function used is causing stability issues.",2023-09-01
+1223,Low,Software,User Guide Request,"Need a user guide for the new features introduced.",2023-09-02
+1302,Medium,Hardware,Printer Streaks,"Vertical streaks appearing on prints from printer P4.",2023-09-28
+1227,Low,Software,UI Concerns,"User feedback regarding the difficult-to-use interface.",2023-09-03
+1118,Medium,Software,Plugin Failure,"Plugin JKLM failed to load in software NOP.",2023-08-18
+1307,Critical,Hardware,Cooling System Alert,"Temperature rising beyond safe levels on server S8.",2023-09-29
+1006,High,Network,VPN Not Connecting,"Remote worker reports VPN not connecting.",2023-08-02
+1301,High,Hardware,Desktop No Power,"Employee's desktop at workstation 52 not turning on.",2023-09-28
+1098,Medium,Network,DNS Resolution Error,"Domain example.com not resolving internally.",2023-08-13
+1217,High,Software,Expired Certificate,"SSL certificate expired for internal portal.",2023-08-31
+1242,Medium,Network,Slow Bandwidth,"Reduced speed reported by the design team.",2023-09-07
+1231,Low,Software,Theme Application,"Dark theme not consistently applied across all views.",2023-09-04
+1214,Low,Software,User Tutorial,"Training requested for the latest version of application JKL.",2023-08-31
+1208,Low,Software,UI Feedback,"Feedback received regarding the new user interface.",2023-08-29
