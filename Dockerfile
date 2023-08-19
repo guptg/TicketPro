@@ -1,6 +1,6 @@
 FROM tensorflow/tensorflow
 
-VOLUME <PATH>
+VOLUME /home/ggupta/TicketPro/models/
 
 RUN pip install numpy
 RUN pip install pandas
